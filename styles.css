@@ -1,0 +1,106 @@
+body{
+  text-align: center;
+  background-color: #f38181;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.game-area{
+  text-align: center;
+  background-color: #f38181;
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+#level-title {
+  font-family: 'Itim', cursive;
+  font-size: 7rem;
+  margin:  5%;
+  color: #fce38a;
+  text-shadow: 3px 3px #eaffd0;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 150px;
+  width: 150px;
+  border-radius: 20%;
+}
+
+.game-over {
+  background-color: grey;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: #CD6155;
+  border:30px outset;
+  border-color: #F1948A;
+}
+
+.green {
+  background-color: #16A085;
+  border: 30px outset;
+  border-color: #73C6B6;
+}
+
+.blue {
+  background-color: #2E86C1;
+  border: 30px outset;
+  border-color: #85C1E9;
+}
+
+.yellow {
+  background-color: #D4AC0D;
+  border: 30px outset;
+  border-color: #F7DC6F;
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.about-game{
+  background-color:#eaffd0;
+  padding-top: 100px;
+  margin-top:100px;
+  margin-bottom:100px;
+  padding-bottom:100px;
+  text-align: center;
+  border: 0;
+}
+h2{
+  color: #f38181;
+  font-family: 'Itim', cursive;
+  font-size: 5rem;
+  margin:  5%;
+}
+p{
+  color: #f38181;
+  font-family: 'Itim', cursive;
+  font-size: 3rem;
+  margin:  5%;
+}
+.footer{
+  background-color: #f38181;
+  padding-top:100px;
+  padding-left: 25px;
+  padding-right:25px;
+  padding-bottom:50px;
+  color: #eaffd0;
+
+}
+
+
+.footer-para{
+  font-size: 1rem;
+  color: #eaffd0;
+  font-family: 'Itim', cursive;
+}
